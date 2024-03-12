@@ -1,0 +1,37 @@
+header{
+    padding: 8px 15px;
+    background: #000000;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo-nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__nav-menu{
+    display: flex;
+    gap: 25px;
+}
+
+.header__nav-link{
+    color: #fff;
+}
+
+.header__buttons{
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.informations{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

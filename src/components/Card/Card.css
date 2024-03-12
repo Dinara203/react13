@@ -1,0 +1,28 @@
+
+.modal-okno{
+    padding: 30px 0;
+    max-width: 800px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 15px;
+}
+.close-btn{
+    background: none;
+    position: absolute;
+    top: 5%;
+    right: 3%;
+
+}
+.count{
+    color: grey;
+}
+.sort{
+    padding: 10px ;
+    border: 1px solid black;
+    border-radius: 2px;
+    
+}
